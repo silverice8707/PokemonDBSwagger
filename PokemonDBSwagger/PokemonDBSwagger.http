@@ -1,0 +1,6 @@
+@PokemonDBSwagger_HostAddress = http://localhost:5064
+
+GET {{PokemonDBSwagger_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

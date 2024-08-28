@@ -1,0 +1,151 @@
+1|001|Bulbasaur|9a8bbe50-e67c-45df-b672-9f1a877d4651.png|Seed Pokémon|For some time after its birth, it grows by taking nourishment from the seed on its back.|12|4|1
+2|002|Ivysaur|5620383e-c7a0-41d0-b12b-aa77cb06c94d.png|Seed Pokémon|When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower’s coming bloom.|12|4|1
+3|003|Venusaur|a107cfb5-0214-46bd-a0d7-74eeb3881253.png|Seed Pokémon|After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.|12|4|1
+4|004|Charmander|46a5eaff-2781-4089-a081-1e94b9dfe4e4.png|Lizard Pokémon|The fire on the tip of its tail is a measure of its life. If the Pokémon is healthy, its tail burns intensely.|10|10|1
+5|005|Charmeleon|2e4405bf-19f2-48a6-9922-b91f74d2212c.png|Flame Pokémon|In the rocky mountains where Charmeleon live, their fiery tails shine at night like stars.|10|10|1
+6|006|Charizard|a6987a6e-3c9b-4527-98a8-6e8fcccca51d.png|Flame Pokémon|It is said that Charizard’s fire burns hotter if it has experienced harsh battles.|10|3|1
+7|007|Squirtle|70c340bb-3e01-48c1-8b0f-84982cdfc730.png|Tiny Turtle Pokémon|It hides in its shell to protect itself, then strikes back with spouts of water at every opportunity.|11|11|1
+8|008|Wartortle|a5e70a01-c9fe-4b8a-aaee-29be5257e03d.png|Turtle Pokémon|It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.|11|11|1
+9|009|Blastoise|c8f37f3f-812e-4e30-8592-a7d0af015ed0.png|Shellfish Pokémon|The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.|11|11|1
+10|010|Caterpie|24c203f0-b8e2-4e1e-a6da-eaed906382b7.png|Worm Pokémon|It releases a stench from its red antennae to repel enemies. It grows by molting repeatedly.|7|7|1
+11|011|Metapod|cacdc02a-316e-4b1e-8833-988e0cca1339.png|Cocoon Pokémon|A steel-hard shell protects its tender body. The Pokémon quietly endures hardships while awaiting evolution.|7|7|1
+12|012|Butterfree|fd65b00b-6ef0-4745-8640-0c3e17a29a3d.png|Butterfly Pokémon|It loves the nectar of flowers and can locate flower patches that have even tiny amounts of pollen.|7|3|1
+13|013|Weedle|671f3a40-bdfe-4a67-a110-397236636b18.png|Hairy Bug Pokémon|It eats its weight in leaves every day. It fends off attackers with the needle on its head.|7|4|1
+14|014|Kakuna|aed6309a-0d8c-4968-afca-3873c15c9efc.png|Cocoon Pokémon|While awaiting evolution, it hides from predators under leaves and in nooks of branches.|7|4|1
+15|015|Beedrill|d2effe6d-c9ea-45b7-b8af-fb88fb51f3c3.png|Poison Bee Pokémon|Its best attack involves flying around at high speed, striking with poison needles, then flying off.|7|4|1
+16|016|Pidgey|42456e9d-e004-423d-9def-5d71d82c8e01.png|Tiny Bird Pokémon|It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back.|1|3|1
+17|017|Pidgeotto|2da04645-d3ed-4834-9fc8-c7864db9e282.png|Bird Pokémon|It flies over its wide territory in search of prey, downing it with its highly developed claws.|1|3|1
+18|018|Pidgeot|c8a2b0d4-0d96-4f6e-9c56-7b1150191f67.png|Bird Pokémon|By flapping its wings with all its might, Pidgeot can make a gust of wind capable of bending tall trees.|1|3|1
+19|019|Rattata|aaf37a46-ca4f-4c89-b007-6c2c51757c8c.png|Mouse Pokémon|Its whiskers provide it with a keen sense of smell, enabling it to pick up the scent of hidden food and locate it instantly.|1|1|1
+20|020|Raticate|0c47dc35-6ad8-449e-a294-53b52d835e9a.png|Mouse Pokémon|It whittles down its constantly growing fangs by gnawing on hard things. It can chew apart cinder block walls.|1|1|1
+21|021|Spearow|dff17cca-df87-4291-a613-8dc888bb6a48.png|Tiny Bird Pokémon|It flaps its small wings busily to fly. Using its beak, it searches in grass for prey.|1|3|1
+22|022|Fearow|153c2e41-1b77-4620-b5d5-0c92d1dc3fb7.png|Beak Pokémon|It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.|1|3|1
+23|023|Ekans|34dce25f-61a0-4d0a-858e-b077eb3a1d01.png|Snake Pokémon|It sneaks through grass without making a sound and strikes unsuspecting prey from behind.|4|4|1
+24|024|Arbok|d0d9dff5-7840-4301-8c43-0ac8839cb1be.png|Cobra Pokémon|The pattern on its belly is for intimidation. It constricts foes while they are frozen in fear.|4|4|1
+25|025|Pikachu|9f3b11b1-dd40-435d-ad70-5b30fb6e13ce.png|Mouse Pokémon|When several of these Pokémon gather, their electricity can build and cause lightning storms.|13|13|1
+26|026|Raichu|743a37a4-6b95-47f8-a553-fe23b886c0b0.png|Mouse Pokémon|If the electric pouches in its cheeks become fully charged, both ears will stand straight up.|13|13|1
+27|027|Sandshrew|328ea101-98e8-40d0-bade-4321ffd67a79.png|Mouse Pokémon|To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall.|5|5|1
+28|028|Sandslash|3feb0b34-6944-45c8-8556-ce438bea5ed3.png|Mouse Pokémon|It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.|5|5|1
+29|029|Nidoran F|a497c7a2-c79b-4b72-b035-5ecf2cb10970.png|Poison Pin Pokémon|While this Pokémon does not prefer to fight, even one drop of the venom it secretes from its barbs can be fatal.|4|4|1
+30|030|Nidorina|a1e5d1e6-c120-4f64-a9f1-ddd7b024478f.png|Poison Pin Pokémon|When it senses danger, it raises all the barbs on its body. These barbs grow more slowly than Nidorino’s.|4|4|1
+31|031|Nidoqueen|69190911-0aa5-4b48-b120-706750f71660.png|Drill Pokémon|Its entire body is armored with hard scales. It will protect the young in its burrow with its life.|4|5|1
+32|032|Nidoran M|d7beb261-7b36-4288-9955-8c9795351430.png|Poison Pin Pokémon|It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.|4|4|1
+33|033|Nidorino|d717c79e-4032-4d56-b48e-c1adc6500991.png|Poison Pin Pokémon|It has a violent disposition and stabs foes with its horn, which oozes venom upon impact.|4|4|1
+34|034|Nidoking|c5964ce1-0200-430d-8e4e-827da55b951e.png|Drill Pokémon|One swing of its mighty tail can snap a telephone pole as if it were a matchstick.|4|5|1
+35|035|Clefairy|d9dcf195-7648-4207-852c-11fa583d8006.png|Fairy Pokémon|It can be found in quiet mountain areas on a full moon’s night. Its dancing and its tiny, faintly glowing wings confer upon it a lovely fairylike quality.|18|18|1
+36|036|Clefable|7aad5353-53be-49e1-a0d1-5b5c903d2212.png|Fairy Pokémon|Legend says that on clear, quiet nights, it listens for the voices of its kin living on the moon. I, too, often think of my homeland, so far away.|18|18|1
+37|037|Vulpix|4c1df536-49f0-4d47-8c27-e65b8feb90b1.png|Fox Pokémon|In its belly burns a fire, which Vulpix spits out in the form of fireballs. When young, this Pokémon has but one white tail. As the Pokémon matures, this single tail splits into six.|10|10|1
+38|038|Ninetales|7dd15296-50e8-44e8-8171-ae8f5e92bcc8.png|Fox Pokémon|"The coat of gleaming golden fur is quite magnificent. This species is said to store sacred power in its nine long tails and to live for a millennium."|10|10|1
+39|039|Jigglypuff|b19a7a4e-f475-4747-8e31-7eb406588d58.png|Balloon Pokémon|If it inflates to sing a lullaby, it can perform longer and cause sure drowsiness in its audience.|1|18|1
+40|040|Wigglytuff|57e10d80-1780-4a59-b1cf-51452c4189e3.png|Balloon Pokémon|The rich, fluffy fur that covers its body feels so good that anyone who feels it can’t stop touching it.|1|18|1
+41|041|Zubat|46a0fbd8-0276-4d7d-ab40-7eb0a6f9b8e0.png|Bat Pokémon|Makes its home in gloomy caves. Atrophied eyes have left this Pokémon blind, so it scans its surroundings via sound waves that it emits from its mouth as it flies.|4|3|1
+42|042|Golbat|fcb780d2-a47b-42ed-8d8a-f8a1525fdc3e.png|Bat Pokémon|It sinks its sharp fangs into other creatures and slurps up their blood. A closer look at the fangs reveals that they are hollow and akin to straws.|4|3|1
+43|043|Oddish|b06df6ea-5daf-4937-8748-2eeb6b47acfe.png|Weed Pokémon|It often plants its root feet in the ground during the day and sows seeds as it walks about at night.|12|4|1
+44|044|Gloom|6f332016-fc05-4b22-880e-231bc0b30272.png|Weed Pokémon|The nectar it drools from its mouth smells so atrocious that it can make noses curl from more than a mile away.|12|4|1
+45|045|Vileplume|31361f6b-4889-4fcd-add6-ae5ca7dfc39f.png|Flower Pokémon|Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.|12|4|1
+46|046|Paras|ef1dfca5-d5ff-468e-b076-f95b7d5f8446.png|Mushroom Pokémon|Sometimes seen at the foot of trees in humid forests. The mushrooms on its back—called tochukaso—are not present on infant specimens and instead emerge as Paras matures.|7|12|1
+47|047|Parasect|eaecab2a-0c02-421c-85d3-427f03897ccd.png|Mushroom Pokémon|Mushroom-lacking specimens of this Pokémon lie unmoving in the forest, lending credence to the hypothesis that the large mushroom is in control of Parasect’s actions.|7|12|1
+48|048|Venonat|55d2a7e8-15b0-4f66-a7ad-11c4e2fe4744.png|Insect Pokémon|"Its eyes act as radar, enabling it to be active in darkness. The eyes can also shoot powerful beams."|7|4|1
+49|049|Venomoth|bf1e2659-5b4f-4b09-aa5d-032838b0ad00.png|Poison Moth Pokémon|When it attacks, it flaps its large wings violently to scatter its poisonous powder all around.|7|4|1
+50|050|Diglett|76a7b475-0599-4867-a3e0-8d3a1e0dc16b.png|Mole Pokémon|Its three hairs change shape depending on Diglett’s mood. They’re a useful communication tool among these Pokémon.|5|5|1
+51|051|Dugtrio|3137ea57-6dfa-4a14-a2cb-265c3a802fa2.png|Mole Pokémon|In battle, it digs through the ground and strikes the unsuspecting foe from an unexpected direction.|5|5|1
+52|052|Meowth|0a5082db-996c-41c3-8f3d-4fcac05e04cf.png|Scratch Cat Pokémon|It loves things that sparkle. When it sees a shiny object, the gold coin on its head shines, too.|1|1|1
+53|053|Persian|e30a693f-2e5c-438c-82ae-c4551638b484.png|Classy Cat Pokémon|It has a vicious temperament. Beware if it raises its tail straight up. This is a signal that it is about to pounce and bite.|1|1|1
+54|054|Psyduck|75e66d6f-948b-40e3-9597-1dcc73b36e80.png|Duck Pokémon|If its chronic headache peaks, it may exhibit odd powers. It seems unable to recall such an episode.|11|11|1
+55|055|Golduck|c9bf102c-bae8-4302-9306-eee1abf16bf5.png|Duck Pokémon|"It swims gracefully along on the quiet, slow-moving rivers and lakes of which it is so fond."|11|11|1
+56|056|Mankey|bba59e66-c269-4692-a8cf-1dccd2091d11.png|Pig Monkey Pokémon|It is extremely quick to anger. It could be docile one moment, then thrashing away the next instant.|2|2|1
+57|057|Primeape|c35e0673-204f-47a1-a621-4999b083d633.png|Pig Monkey Pokémon|Some researchers theorize that Primeape remains angry even when inside a Poké Ball.|2|2|1
+58|058|Growlithe|102dab7f-5471-421a-ae38-cd79586db95e.png|Puppy Pokémon|It’s very friendly and faithful to people. It will try to repel enemies by barking and biting.|10|10|1
+59|059|Arcanine|49576201-4cbc-4240-b213-afffc8d337da.png|Legendary Pokémon|Its magnificent bark conveys a sense of majesty. Anyone hearing it can’t help but grovel before it.|2|2|1
+60|060|Poliwag|d4e7e1d0-bf50-493f-8997-93f573a0c73b.png|Tadpole Pokémon|Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.|11|11|1
+61|061|Poliwhirl|093a48df-c658-42e1-b713-4921606b01e4.png|Tadpole Pokémon|The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.|11|11|1
+62|062|Poliwrath|ed7983d9-cd08-4865-ac57-fd4324a465f7.png|Tadpole Pokémon|With its extremely tough muscles, it could keep swimming in the Pacific Ocean without resting.|11|2|1
+63|063|Abra|d5457914-efa0-4b0a-ae67-eccec29686e9.png|Psi Pokémon|Spends 18 hours of the day sleeping. Even while asleep, Abra can control its psychic powers—should danger approach, the Pokémon will simply teleport away.|14|14|1
+64|064|Kadabra|c09b5489-aab4-4d6d-9999-1a95ab815236.png|Psi Pokémon|There are rumors that a child with mystical powers became a Kadabra; however, this remains unverified. I suspect that the spoon Kadabra holds enhances its brain waves.|14|14|1
+65|065|Alakazam|619bb80c-ac35-4eff-b67a-647af4750c45.png|Psi Pokémon|The longer Alakazam lives, the larger and heavier its head becomes. Our tests have shown that the strength of its psychic powers correlates positively to the weight of its head.|14|14|1
+66|066|Machop|e48031c3-9ab0-4441-82c3-41760f9ee1bc.png|Superpower Pokémon|Though as small as a child, it has strength enough to easily throw a well-built adult. Striving to become ever stronger, Machop trains by carrying a Graveler on its shoulders.|2|2|1
+67|067|Machoke|a0d3404f-baad-4efa-9bb3-bc4486f506d4.png|Superpower Pokémon|A sturdy creature boasting a robust physique and boundless stamina. Loves training above all else and voluntarily assists with tasks such as construction and clearing land.|2|2|1
+68|068|Machamp|a501e1fe-410d-4701-9698-1bbfa2fd7611.png|Superpower Pokémon|In close combat, its four arms afford it offensive and defensive supremacy. In but a blink, this valiant Pokémon can overwhelm its foes with more than 1,000 blows from its fists.|2|2|1
+69|069|Bellsprout|fefe0f02-befb-4447-b79b-a5aafc38744d.png|Flower Pokémon|It prefers hot and humid environments. It is quick at capturing prey with its vines.|12|4|1
+70|070|Weepinbell|58c691ac-4b3f-40ee-b66a-34affb489deb.png|Flycatcher Pokémon|This Pokémon has the appearance of a plant. It captures unwary prey by dousing them with a toxic powder.|12|4|1
+71|071|Victreebel|5493d03d-f0b7-41b5-9e08-f80bba22a925.png|Flycatcher Pokémon|In its mouth, it pools a fragrant nectar-like fluid. The fluid is really an acid that dissolves anything.|12|4|1
+72|072|Tentacool|7262dede-8cde-406f-8c8b-ba4a45fd62f8.png|Jellyfish Pokémon|They fire beams from the glassy, magenta orbs that resemble eyes atop their heads, and they drift in shallow seas. During low tide, they can sometimes be found on beaches, desiccated.|11|4|1
+73|073|Tentacruel|44f72d21-b8b2-4f91-a566-341d18d16561.png|Jellyfish Pokémon|It has 80 tentacles, each with a venomous tip. These tentacles are also extendible, lengthening when Tentacruel attempts to catch prey. Use caution.|11|4|1
+74|074|Geodude|c01593b7-eccd-4bae-a33f-beaaf6729807.png|Rock Pokémon|Makes its home in mountainous regions, using its arms to climb along harsh mountain roads. Can be troublesome—carelessly kicking one will cause it to fly into a rage and chase after you.|6|5|1
+75|075|Graveler|2d773a04-3c66-487b-9f93-380c4b10f68d.png|Rock Pokémon|When it comes rolling down a mountain path, anything in its way gets zapped by electricity and sent flying.|6|5|1
+76|076|Golem|2ebe98b0-d5cc-4f34-84a1-0c9e31964371.png|Megaton Pokémon|It uses magnetism to accelerate and fire off rocks tinged with electricity. Even if it doesn’t score a direct hit, the jolt of electricity will do the job.|6|5|1
+77|077|Ponyta|14ffef13-aecb-4963-9f0e-9a376a1deac7.png|Fire Horse Pokémon|"These Pokémon live in herds out in the grassland. Newborn foals lack their fiery manes, which will develop about an hour after birth."|10|10|1
+78|078|Rapidash|448e2117-bb59-4875-871c-e0f224504381.png|Fire Horse Pokémon|Fiery mane aglow, Rapidash darts like an arrow across the land. This prodigiously swift creature can traverse the vast region of Hisui in a day and a half.|10|10|1
+79|079|Slowpoke|e67e7506-54c0-4273-b7b2-46b693934511.png|Dopey Pokémon|It is always vacantly lost in thought, but no one knows what it is thinking about. It is good at fishing with its tail.|11|14|1
+80|080|Slowbro|0843cca7-3bc3-4beb-95cb-dc0d3a75a350.png|Hermit Crab Pokémon|"If the tail-biting Shellder is thrown off in a harsh battle, this Pokémon reverts to being an ordinary Slowpoke."|11|14|1
+81|081|Magnemite|66fc113c-eddc-4f05-b079-962c28b4426c.png|Magnet Pokémon|It moves while constantly hovering. It discharges electromagnetic waves and so on from the units at its sides.|13|9|1
+82|082|Magneton|c8fc7ca4-79a1-444e-9df5-f06a309421f1.png|Magnet Pokémon|They’re formed by several Magnemite linked together. They frequently appear when sunspots flare up.|13|9|1
+83|083|Farfetch'd|efd672aa-e5cc-46f4-9db7-76767db5ae64.png|Wild Duck Pokémon|It can’t live without the stalk it holds. That’s why it defends the stalk from attackers with its life.|1|3|1
+84|084|Doduo|52a5b9c6-7bd6-4045-a5a4-cb29f301cc17.png|Twin Bird Pokémon|The brains in its two heads appear to communicate emotions to each other with a telepathic power.|1|3|1
+85|085|Dodrio|bfd5c334-a2a6-4d8e-b6e1-a65e1647c601.png|Triple Bird Pokémon|When Doduo evolves into this odd breed, one of its heads splits into two. This Pokémon runs at nearly 40 mph.|1|3|1
+86|086|Seel|1b2432a8-dd3a-4ed6-b339-7140040c1e35.png|Sea Lion Pokémon|This Pokémon lives on icebergs. It uses the sharp point on its head to break up ice as it swims in the sea.|11|11|1
+87|087|Dewgong|66642844-c5e3-45e1-9598-31b0a8f9f489.png|Sea Lion Pokémon|In snow, the pure white coat covering its body obscures it from predators.|11|15|1
+88|088|Grimer|4bc0af78-1e72-40c7-bd74-a1e62b7fa60e.png|Sludge Pokémon|When two of these Pokémon’s bodies are combined together, new poisons are created.|4|4|1
+89|089|Muk|814a562b-81f1-41f3-aed8-9d4798c6f931.png|Sludge Pokémon|It’s so stinky! Muk’s body contains toxic elements, and any plant will wilt when it passes by.|4|4|1
+90|090|Shellder|fe578761-ec5f-497c-9cd7-769d01d382a1.png|Bivalve Pokémon|Clamping on to an opponent reveals its vulnerable parts, so it uses this move only as a last resort.|11|11|1
+91|091|Cloyster|2e18094b-48d7-4f15-8a90-50875179f0fa.png|Bivalve Pokémon|When attacked, it launches its spikes in quick volleys. Its innards have never been seen.|11|15|1
+92|092|Gastly|824e3844-b26b-4e23-9101-2bdf547d5fd8.png|Gas Pokémon|Its body is made of gas. Despite lacking substance, it can envelop an opponent of any size and cause suffocation.|8|4|1
+93|093|Haunter|1a474c06-0694-42a3-99e7-9e4bb9ae2527.png|Gas Pokémon|In total darkness, where nothing is visible, Haunter lurks, silently stalking its next victim.|8|4|1
+94|094|Gengar|8a406ab6-6c65-4e2c-87c3-b0e1a45fe33b.png|Shadow Pokémon|Hiding in people’s shadows at night, it absorbs their heat. The chill it causes makes the victims shake.|8|4|1
+95|095|Onix|a642a015-bd1f-446f-9568-32ef04ed4051.png|Rock Snake Pokémon|This chain of immense stones resembles a giant serpent. Tremors shake the earth above as it burrows deep beneath the ground, feeding on boulders as it goes.|6|5|1
+96|096|Drowzee|e2f451d5-e4d5-4078-b003-2a42b66075b1.png|Hypnosis Pokémon|"When it twitches its nose, it can tell where someone is sleeping and what that person is dreaming about."|14|14|1
+97|097|Hypno|29cb9adc-5b90-40d6-8f73-c75d2b6ccf1e.png|Hypnosis Pokémon|Always holding a pendulum that it swings at a steady rhythm, it causes drowsiness in anyone nearby.|14|14|1
+98|098|Krabby|d7bd4b40-3b0f-42d6-aad1-b85331ddfb51.png|River Crab Pokémon|It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are lost in battle.|11|11|1
+99|099|Kingler|2de4ecbe-6dcf-4420-a682-732d5cd1c5cb.png|Pincer Pokémon|The larger pincer has 10,000-horsepower strength. However, it is so heavy, it is difficult to aim.|11|11|1
+100|100|Voltorb|f51d14b9-ae67-43a9-b1db-51f2c85a91c4.png|Ball Pokémon|It’s usually found in power plants. Easily mistaken for a Poké Ball, it has zapped many people.|13|13|1
+101|101|Electrode|c1f19c86-6305-4f6c-9b9a-e47c3a043812.png|Ball Pokémon|It explodes in response to even minor stimuli. It is feared, with the nickname of the Bomb Ball.|13|13|1
+102|102|Exeggcute|7c50e3bf-af84-46f7-83a0-7a4b2ea146e7.png|Egg Pokémon|"Its six eggs converse using telepathy. They can quickly gather if they become separated."|12|14|1
+103|103|Exeggutor|6c8a0533-1ae2-4cd5-b7b8-6e7bfb3ca532.png|Coconut Pokémon|It is called the Walking Jungle. If a head grows too big, it falls off and becomes an Exeggcute.|12|14|1
+104|104|Cubone|6341cf9d-bd26-409b-9f58-665844099161.png|Lonely Pokémon|When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.|5|5|1
+105|105|Marowak|6984f4d4-ef6e-4ecc-8a84-05fb00a838fd.png|Bone Keeper |The cursed flames that light up the bone carried by this Pokémon are said to cause both mental and physical pain that will never fade.|5|5|1
+106|106|Hitmonlee|56a447e8-5551-4531-aee6-84ff055656b2.png|Kicking Pokémon|Its legs can stretch to double their length. First-time foes are startled by Hitmonlee’s extensible reach.|2|2|1
+107|107|Hitmonchan|a899f19f-24a9-4dc5-b7a9-acc2cafefadd.png|Punching Pokémon|When Hitmonchan twists its arm while throwing a punch, the blow will pulverize even concrete. The Pokémon rests after three minutes of fighting.|2|2|1
+108|108|Lickitung|d476cd9c-a3f9-4877-a336-9741c13a72da.png|Licking Pokémon|Wields its long tongue deftly, as though it were an arm. The Pokémon’s viscous saliva, once it has been collected and boiled down, yields a strong and highly useful adhesive.|1|1|1
+109|109|Koffing|d527344c-5666-452f-9eaa-73e654d72677.png|Poison Gas Pokémon|Lighter-than-air gases in its body keep it aloft. The gases not only smell; they are also explosive.|4|4|1
+110|110|Weezing|438ec9af-22af-466d-b66b-54ae4c606d79.png|Poison Gas Pokémon|It grows by feeding on gases released by garbage. Though very rare, triplets have been found.|4|4|1
+111|111|Rhyhorn|6fdde57e-9dd2-49b5-af12-c385ba5833b1.png|Spikes Pokémon|Ludicrously strong—when it butts heads with a mountain, it is the mountain that shatters. But its short legs struggle with turns, and it is incapable of stopping unless it collides with something.|5|6|1
+112|R11|Rhydon|4d702624-2cbb-4fcf-8476-9b1a834c80f4.png|Drill Pokémon|Rapidly rotates its horn to bore through bedrock. It swaggers around volcanic regions, protected from the lava’s heat by its tough, armorlike hide.|5|6|1
+113|113|Chansey|8cfe6ab5-3462-475b-9a76-7ebf777247cd.png|Egg Pokémon|It walks carefully to prevent its egg from breaking. However, it is extremely fast at running away.|1|1|1
+114|114|Tangela|9c70c7a6-20af-42e0-a97e-1bb02f25af33.png|Vine Pokémon|It is cloaked entirely in blue vines, preventing any glimpse of its true identity. The vines impart a refreshing sensation when chewed—they’re useful as a spice.|12|12|1
+115|115|Kangaskhan|45269c0e-2caa-4ba9-ba06-e694717ebcab.png|Parent Pokémon|It raises its offspring in its belly pouch. It lets its baby out to play only when it feels safe to do so.|1|1|1
+116|116|Horsea|4303dfe3-b8dd-4041-91d4-140020ad5652.png|Dragon Pokémon|It makes its nest in the shade of corals. If it senses danger, it spits black ink and flees.|11|11|1
+117|117|Seadra|4e45e3ed-7733-4d48-96ac-db40ace78386.png|Dragon Pokémon|Its spines provide protection. Its fins and bones are prized as traditional medicine ingredients.|11|11|1
+118|118|Goldeen|5f3b1fd8-d355-470d-9da1-e35755a392bc.png|Goldfish Pokémon|It swims at a steady five knots. If it senses danger, it will strike back with its sharp horn.|11|11|1
+119|119|Seaking|cf8a6b95-aa57-47ba-99c2-3e03f504d10c.png|Goldfish Pokémon|To protect its family, it will fight with its drill-sharp horn. It lives in hollowed rocks in streams.|11|11|1
+120|120|Staryu|de39a10c-efee-4910-ac6d-1639f842a3f1.png|Star Shape Pokémon|If Staryu’s body is damaged, it will regenerate as long as the red core remains. The core flashes at midnight.|11|11|1
+121|121|Starmie|920fbf19-40c5-42dd-a282-3cc3f5ca17fa.png|Mysterious Pokémon|At the center of its body is a red core that sends mysterious radio signals into the night sky.|11|14|1
+122|122|Mr. Mime|00dd6c68-57df-4a13-8529-f84da53c76d1.png|Barrier Pokémon|The behavior of this clown-like Pokémon reminds one of pantomime. It creates invisible walls using a force emitted from its fingertips.|14|14|1
+123|123|Scyther|9bfdaf51-35b7-4381-b0e8-9341b7069f05.png|Mantis Pokémon|The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.|7|3|1
+124|124|Jynx|33983ac9-70ce-46a4-bd30-28bd8b08046d.png|Human Shape Pokémon|Its cries sound like human speech. However, it is impossible to tell what it is trying to say.|15|14|1
+125|125|Electabuzz|d2aa0f2e-023b-4e7f-ada0-c23ef6cd8402.png|Electric Pokémon|Feeds on electrical energy. During sudden showers beneath looming thunderclouds, one can observe Electabuzz scaling tall trees, where the Pokémon will then wait for lightning to strike.|13|13|1
+126|126|Magmar|7c90c460-c85d-435e-a167-738d54ee35ba.png|Spitfire Pokémon|Legend has it that this Pokémon was born from the crater of a volcano. When wounded, it bathes in lava to heal its body, much as one would soak in a hot spring.|10|10|1
+127|127|Pinsir|df82c912-d709-4f34-991a-aaab2eee6a90.png|Stag Beetle Pokémon|It grips prey with its pincers until the prey is torn apart. What it can’t tear, it tosses far away.|7|7|1
+128|128|Tauros|d5e441da-c9fd-408b-b554-92b64d30f0bc.png|Wild Bull Pokémon|They fight each other by locking horns. The herd’s protector takes pride in its battle-scarred horns.|1|1|1
+129|129|Magikarp|1e6afe4c-be83-4248-b7fe-c4e9c90c7b0b.png|Fish Pokémon|In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.|11|11|1
+130|130|Gyarados|04629aae-efce-48b8-bf6c-5ebf7728694c.png|Atrocious Pokémon|It appears whenever there is world conflict, burning down any place it travels through.|11|3|1
+131|131|Lapras|1b6b7908-205e-4b44-bba9-2bc2c5a33386.png|Transport Pokémon|It loves crossing the sea with people and Pokémon on its back. It understands human speech.|11|15|1
+132|132|Ditto|823e5076-75eb-4835-845e-2e439f68a754.png|Transform Pokémon|It can freely recombine its own cellular structure to transform into other life-forms.|1|1|1
+133|133|Eevee|cee52c21-5f6b-4a4b-a3d3-025499385cc9.png|Evolution Pokémon|Its genetic code is irregular. It may mutate if it is exposed to radiation from element stones.|1|1|1
+134|134|Vaporeon|563f6edd-056d-46b4-a98f-0f100453630f.png|Bubble Jet Pokémon|Its cell composition is similar to water molecules. As a result, it can’t be seen when it melts away into water.|11|11|1
+135|135|Jolteon|b0dd07a3-2222-4a4f-a46c-b956942f0d65.png|Lightning Pokémon|If agitated, it uses electricity to straighten out its fur and launch it in small bunches.|13|13|1
+136|136|Flareon|fc2382c2-2084-4678-8c7e-3c994d514010.png|Flame Pokémon|It fluffs out its fur collar to cool down its body temperature, which can reach 1,650 degrees Fahrenheit.|10|10|1
+137|137|Porygon|cb091d76-37d7-4ade-9f7c-09498ec7b488.png|Virtual Pokémon|It has no discernible heartbeat and does not seem to draw breath, and yet it appears to function without issue. I cannot even begin to explain this utterly bizarre anomaly.|1|1|1
+138|138|Omanyte|b6605355-0754-4104-a74e-e8546375a2f7.png|Spiral Pokémon|It’s a Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.|6|11|1
+139|139|Omastar|f0689d42-734a-40ad-b365-cf7b89ed5953.png|Spiral Pokémon|It is thought that this Pokémon became extinct because its spiral shell grew too large.|6|11|1
+140|140|Kabuto|410e0848-ebe0-4ec7-a249-f6f6375b27e6.png|Shellfish Pokémon|It is thought to have inhabited beaches 300 million years ago. It is protected by a sturdy shell.|6|11|1
+141|141|Kabutops|052dfa2c-b895-4b3f-bcc1-0994775085a0.png|Shellfish Pokémon|It is thought that this Pokémon came onto land because its prey adapted to life on land.|6|11|1
+142|142|Aerodactyl|45ddf273-3a06-43d0-8c23-0db97359532e.png|Fossil Pokémon|It’s a Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw blades.|6|3|1
+143|143|Snorlax|4b1ea5da-b33b-49be-a2b8-c50d6c4b763b.png|Sleeping Pokémon|This glutton appears in villages without warning and devours the entirety of their rice granaries—such occurrences have long been counted among the gravest of disasters.|1|1|1
+144|144|Articuno|3711cd44-3426-4447-a882-49978a128ab4.png|Freeze Pokémon|This legendary bird Pokémon can create blizzards by freezing moisture in the air.|15|3|1
+145|145|Zapdos|36b0b7ed-9c03-4e86-a54b-45ccd906b6ba.png|Electric Pokémon|This legendary Pokémon is said to live in thunderclouds. It freely controls lightning bolts.|13|3|1
+146|146|Moltres|c550e616-e854-4b2f-bbc0-a845a8427f08.png|Flame Pokémon|It is one of the legendary bird Pokémon. Its appearance is said to indicate the coming of spring.|10|3|1
+147|147|Dratini|f06525c7-7581-4fe0-a0a8-0ac71f1d0375.png|Dragon Pokémon|It is born large to start with. It repeatedly sheds its skin as it steadily grows longer.|16|16|1
+148|148|Dragonair|feef5788-bc6f-4d2b-88c1-c2ebf1af95e4.png|Dragon Pokémon|It is called the divine Pokémon. When its entire body brightens slightly, the weather changes.|16|16|1
+149|149|Dragonite|986177c6-3b95-4127-8f55-518b5c440d01.png|Dragon Pokémon|It can fly in spite of its big and bulky physique. It circles the globe in just 16 hours.|16|3|1
+150|150|Mewtwo|48bcd6e7-e5af-44a1-8c71-a34555a8e415.png|Genetic Pokémon|Mewtwo was created by recombining Mew’s genes. It’s said to have the most savage heart among Pokémon.|14|14|1
+151|151|Mew|27910d0c-7998-4b37-b8b1-e81e7244553a.png|New Species Pokémon|"Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pokémon."|14|14|1
